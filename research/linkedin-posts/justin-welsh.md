@@ -57,6 +57,7 @@ Theme:
 Repurposing content
 
 Key Idea:
+
 One idea can be turned into multiple content pieces.
 
 Observation:
