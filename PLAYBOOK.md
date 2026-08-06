@@ -1,5 +1,6 @@
 # LinkedIn Organic Content Playbook for B2B SaaS
 
+
 ## Introduction
 
 This playbook was created by synthesizing research from ten experienced B2B SaaS marketing practitioners who regularly publish educational content on LinkedIn and other professional platforms. Instead of following one person's strategy, this playbook combines the recurring recommendations that appeared across multiple experts and converts them into one practical Standard Operating Procedure (SOP).
@@ -11,6 +12,21 @@ Every recommendation included below is supported by at least one expert from the
 ---
 
 # Recommendations
+
+Every recommendation included below is supported by research collected from the expert sources documented in this repository. Source references identify the expert and the specific concept analyzed.
+
+## Playbook Operating Principle
+
+The recommendations below are not isolated tactics. They represent a connected system:
+
+1. Understand the audience.
+2. Create valuable educational content.
+3. Build trust through consistency.
+4. Distribute and repurpose content.
+5. Measure business impact.
+6. Improve through experimentation.
+
+Companies should implement these principles together rather than treating individual recommendations as standalone tactics.
 
 ## Recommendation 1: Start With Customer Problems, Not Content Ideas
 
