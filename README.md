@@ -59,6 +59,19 @@ The final output of this project is a structured understanding of:
 - How creators convert content into business outcomes
 - Repeatable frameworks for organic LinkedIn growth
 
+
+
+
+---
+
+# Final Deliverable
+
+The final Playbook/SOP created from this research is available here:
+
+[LinkedIn Organic Content Playbook for B2B SaaS](./PLAYBOOK.md)
+
+
+
 ---
 
 ## 📌 Summary
